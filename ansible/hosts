@@ -1,0 +1,6 @@
+[ios]
+r1
+
+[ios:vars]
+ansible_user=admin
+ansible_ssh_pass=qaz123
